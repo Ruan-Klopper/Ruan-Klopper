@@ -41,15 +41,6 @@ I'm Ruan, a student at Open Window, currently pursuing a degree in **Photography
 
 ---
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://za.linkedin.com/in/ruan-klopper-b09418220" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="40"/></a>
-  <a href="https://www.instagram.com/ruan.klopper.photography/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/></a>
-</div>
-
----
-
 ## 📌 Pinned Repositories for 2024
 
 <div align="center">
@@ -85,6 +76,30 @@ I'm Ruan, a student at Open Window, currently pursuing a degree in **Photography
 </div>
 
 ---
+
+## 📞 Contact Information
+
+<div align="center">
+  <p>
+    <img src="https://cdn-icons-png.flaticon.com/512/8748/8748459.png" alt="Phone" width="30"/><br/>
+    <b>Phone:</b><br/> +27 66 207 2937
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="30"/><br/>
+    <b>WhatsApp:</b><br/> <a href="https://api.whatsapp.com/send/?phone=27662072937&text&type=phone_number&app_absent=0" target="_blank">+27 66 207 2937</a>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/><br/>
+    <b>Email:</b><br/> <a href="mailto:ruank83@gamil.com">ruank83@gamil.com</a>
+  </p>
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://za.linkedin.com/in/ruan-klopper-b09418220" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="40"/></a>
+  <a href="https://www.instagram.com/ruan.klopper.photography/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/></a>
+</div>
 
 ## ✨ Fun Facts & More
 
