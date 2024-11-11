@@ -6,6 +6,12 @@
 
 ---
 
+### Fullname: Ruan Klopper
+
+### Student no: 231280
+
+---
+
 ## Hi There! 👋
 
 I'm Ruan, a student at Open Window, currently pursuing a degree in **Photography and Interactive Development**. I truly enjoy building visually appealing websites that stand out and leave a lasting impression.
