@@ -1,111 +1,333 @@
-<img src="./Ruan-Klopper-Banner.png" alt="Ruan Klopper Header" width="100%">
-
-##
-
-🚀 **Full Stack Developer | UI/UX Designer | Photographer | Videographer**
-
----
-
-### Fullname: Ruan Klopper
-
-### Student no: 231280
-
----
-
-## Hi There! 👋
-
-I'm Ruan, a student at Open Window, currently pursuing a degree in **Photography and Interactive Development**. I truly enjoy building visually appealing websites that stand out and leave a lasting impression.
-
----
-
-## 🔧 Skills and Technologies
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ruan%20Klopper&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/><br/><b>JavaScript</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50"/><br/><b>HTML5</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50"/><br/><b>CSS3</b></td>
-      <td align="center"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="50"/><br/><b>PHP</b></td>
-      <td align="center"><img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png" alt="React" width="50"/><br/><b>React</b></td>
-      <td align="center"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="50"/><br/><b>Next.js</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/><br/><b>Node.js</b></td>
-      <td align="center"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" width="50"/><br/><b>Express.js</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/database.png" alt="Prisma ORM" width="50"/><br/><b>Prisma ORM</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50"/><br/><b>PostgreSQL</b></td>
-      <td align="center"><img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="SQL" width="38"/><br/><b>SQL</b></td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Atlas" width="50"/><br/><b>MongoDB Atlas</b></td>
-    </tr>
-  </table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ruanklopper&color=blueviolet&style=for-the-badge)
+
+**Full Stack Engineer** • **UX/UI Designer** • **Photographer**  
+**Node.js** • **❤️ TypeScript and Tailwind** • **Saving up for a BMW E39 M5**
+
 </div>
 
 ---
 
-## 📌 Pinned Repositories for 2024
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Term 1: Pality</h3>
-        <a href="https://github.com/Ruan-Klopper/Ruan-Klopper-DV200-Term-1-Semester-1" target="_blank">
-          <img src="./Pality.png" alt="Pality Project" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>Term 2: Botania</h3>
-        <a href="https://github.com/Sean-D-231121/Group_Project_DV200_Term_2" target="_blank">
-          <img src="./Botania.png" alt="Botania Project" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>Term 3: TechTalksMarket</h3>
-        <a href="https://github.com/Ruan-Klopper/RuanKlopper_DV200-Term3-Semester2" target="_blank">
-          <img src="./TTT.png" alt="TechTalksMarket Project" width="200" />
-        </a>
-      </td>
-      <td align="center">
-        <h3>Term 4: DotSkin</h3>
-        <a href="https://github.com/Ruan-Klopper/RuanKlopper_DV200-Term4-Semester-2" target="_blank">
-          <img src="./DotSkin.png" alt="DotSkin Project" width="200" />
-        </a>
-        <br/>
-      </td>
-    </tr>
-  </table>
+  
+### 🛠️ Tech Stack Pills
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 </div>
 
 ---
 
-## 📞 Contact Information
+## 👋 About Me
 
 <div align="center">
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/8748/8748459.png" alt="Phone" width="30"/><br/>
-    <b>Phone:</b><br/> +27 66 207 2937
-  </p>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="30"/><br/>
-    <b>WhatsApp:</b><br/> <a href="https://api.whatsapp.com/send/?phone=27662072937&text&type=phone_number&app_absent=0" target="_blank">+27 66 207 2937</a>
-  </p>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" width="30"/><br/>
-    <b>Email:</b><br/> <a href="mailto:ruank83@gamil.com">ruank83@gamil.com</a>
-  </p>
+
+_Coming soon..._
+
 </div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://za.linkedin.com/in/ruan-klopper-b09418220" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="40"/></a>
-  <a href="https://www.instagram.com/ruan.klopper.photography/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40"/></a>
-</div>
-
-## ✨ Fun Facts & More
-
-- 🔍 Always exploring new technologies.
-- 💡 Quick learner and creative problem-solver.
-- 🎨 Passionate about photography and digital art.
-- 💻 Open to collaborating on exciting projects.
 
 ---
+
+## 💼 Skills & Expertise
+
+### Frontend Development
+
+<div align="center">
+  <img src="https://progress-bar.dev/90?title=Progress&width=400&color=brightgreen" alt="Frontend Progress"/>
+</div>
+
+**Frameworks:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+
+**UI Styling:**
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### Backend Development
+
+<div align="center">
+  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=blue" alt="Backend Progress"/>
+</div>
+
+**Frameworks:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Languages:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+---
+
+### Data & Databases
+
+<div align="center">
+  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=orange" alt="Database Progress"/>
+</div>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+
+---
+
+### Mobile Development
+
+<div align="center">
+  <img src="https://progress-bar.dev/85?title=Progress&width=400&color=purple" alt="Mobile Progress"/>
+</div>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
+
+---
+
+### Security, Authentication & Session Management
+
+<div align="center">
+  <img src="https://progress-bar.dev/90?title=Progress&width=400&color=red" alt="Security Progress"/>
+</div>
+
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth%202.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-ED8B00?style=flat-square&logo=indexeddb&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-FF6B6B?style=flat-square&logo=cache&logoColor=white)
+
+---
+
+### Architecture Planning
+
+<div align="center">
+  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=teal" alt="Architecture Progress"/>
+</div>
+
+**Entity Relationship Planning** • **Feature Sets** • **MVP**
+
+---
+
+### Testing
+
+<div align="center">
+  <img src="https://progress-bar.dev/75?title=Progress&width=400&color=yellow" alt="Testing Progress"/>
+</div>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![XUnit](https://img.shields.io/badge/XUnit-512BD4?style=flat-square&logo=xunit&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-512BD4?style=flat-square&logo=moq&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📚 Repositories for 2025
+
+### Open Window Semester 1
+
+#### 🌿 Coriander
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=Coriander+-+HR+Management+System" alt="Coriander Banner" width="100%"/>
+</div>
+
+**Description:** A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI Icons](https://img.shields.io/badge/MUI%20Icons-007FFF?style=flat-square&logo=mui&logoColor=white)
+![MUI X Charts](https://img.shields.io/badge/MUI%20X%20Charts-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Day.js](https://img.shields.io/badge/Day.js-FF6B6B?style=flat-square&logo=day.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![PDFMake](https://img.shields.io/badge/PDFMake-000000?style=flat-square&logo=pdf&logoColor=white)
+![Lottie React](https://img.shields.io/badge/Lottie%20React-000000?style=flat-square&logo=lottie&logoColor=white)
+
+---
+
+#### 📸 VetSnap
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/50C878/FFFFFF?text=VetSnap+-+Veterinary+Management+App" alt="VetSnap Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity%20CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+
+---
+
+#### 🤖 Noki AI
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/6C5CE7/FFFFFF?text=Noki+AI+-+AI+Powered+Application" alt="Noki AI Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+
+---
+
+### Projects Built Outside Open Window
+
+#### 📻 Pretoria FM
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/FF6B6B/FFFFFF?text=Pretoria+FM+-+Radio+Streaming+App" alt="Pretoria FM Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![React Native Track Player](https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white)
+
+---
+
+## 📚 Repositories for 2024
+
+#### 🎨 Palitify
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/FF6B9D/FFFFFF?text=Palitify+-+Creative+Platform" alt="Palitify Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![React Native Track Player](https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white)
+
+---
+
+#### 🌱 Botania
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/2ECC71/FFFFFF?text=Botania+-+Plant+Management+System" alt="Botania Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+#### 💬 TechTalksMarket
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/3498DB/FFFFFF?text=TechTalksMarket+-+Tech+Marketplace" alt="TechTalksMarket Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+#### 🎮 DotSkin
+
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/9B59B6/FFFFFF?text=DotSkin+-+Gaming+Platform" alt="DotSkin Banner" width="100%"/>
+</div>
+
+**Description:** _Description coming soon..._
+
+**Technologies Used:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruanklopper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ruanklopper&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanklopper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanklopper&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanklopper)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruanklopper)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanklopper@example.com)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer"/>
+</div>
