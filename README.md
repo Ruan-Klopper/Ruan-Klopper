@@ -19,7 +19,7 @@
 
 <div align="center">
   
-### 🛠️ Tech Stack Pills
+### Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 <div align="center">
 
@@ -48,14 +48,14 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-## 💻 What I'm Currently Working On
+## What I'm Currently Working On
 
 - 🤖 Expanding **Noki AI** - features, hopefully I can lauch it soon for students to use Noki AI
 - 🎨 Learning new design patterns and best practices
 
 ---
 
-## 💼 Skills & Expertise
+## Skills & Expertise
 
 ### Frontend Development
 
@@ -163,7 +163,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-## 📚 Repositories for 2025
+## Repositories for 2025
 
 ### Open Window Semester 1
 
@@ -194,7 +194,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-#### 📸 VetSnap
+#### VetSnap
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/50C878/FFFFFF?text=VetSnap+-+Veterinary+Management+App" alt="VetSnap Banner" width="100%"/>
@@ -212,7 +212,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-#### 🤖 Noki AI
+#### Noki AI
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/6C5CE7/FFFFFF?text=Noki+AI+-+AI+Powered+Application" alt="Noki AI Banner" width="100%"/>
@@ -231,7 +231,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ### Projects Built Outside Open Window
 
-#### 📻 Pretoria FM
+#### Pretoria FM
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/FF6B6B/FFFFFF?text=Pretoria+FM+-+Radio+Streaming+App" alt="Pretoria FM Banner" width="100%"/>
@@ -248,9 +248,9 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-## 📚 Repositories for 2024
+## Repositories for 2024
 
-#### 🎨 Palitify
+#### Palitify
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/FF6B9D/FFFFFF?text=Palitify+-+Creative+Platform" alt="Palitify Banner" width="100%"/>
@@ -267,7 +267,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-#### 🌱 Botania
+#### Botania
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/2ECC71/FFFFFF?text=Botania+-+Plant+Management+System" alt="Botania Banner" width="100%"/>
@@ -283,7 +283,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-#### 💬 TechTalksMarket
+#### TechTalksMarket
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/3498DB/FFFFFF?text=TechTalksMarket+-+Tech+Marketplace" alt="TechTalksMarket Banner" width="100%"/>
@@ -298,7 +298,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-#### 🎮 DotSkin
+#### DotSkin
 
 <div align="center">
   <img src="https://via.placeholder.com/1200x300/9B59B6/FFFFFF?text=DotSkin+-+Gaming+Platform" alt="DotSkin Banner" width="100%"/>
@@ -313,7 +313,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -331,7 +331,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -343,7 +343,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 <div align="center">
   
-### 💬 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanklopper)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruanklopper)
@@ -353,7 +353,7 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ---
 
-### ⚡ Quick Stats
+### Quick Stats
 
 ![GitHub Followers](https://img.shields.io/github/followers/Ruan-Klopper?label=Followers&style=for-the-badge&color=FF6B6B&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/Ruan-Klopper?label=Total%20Stars&style=for-the-badge&color=FF6B6B&logo=github)
