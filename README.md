@@ -4,10 +4,14 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ruanklopper&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ruan-Klopper&color=blueviolet&style=for-the-badge)
 
 **Full Stack Engineer** • **UX/UI Designer** • **Photographer**  
 **Node.js** • **❤️ TypeScript and Tailwind** • **Saving up for a BMW E39 M5**
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+amazing+digital+experiences;Turning+ideas+into+reality;One+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -38,9 +42,16 @@
 
 <div align="center">
 
-_Coming soon..._
+_I'm a passionate Full Stack Developer who loves building innovative solutions and creating beautiful user experiences. When I'm not coding, you'll find me behind a camera capturing moments or dreaming about that perfect BMW E39 M5. I believe in writing clean, maintainable code and always learning something new._
 
 </div>
+
+---
+
+## 💻 What I'm Currently Working On
+
+- 🤖 Expanding **Noki AI** - features, hopefully I can lauch it soon for students to use Noki AI
+- 🎨 Learning new design patterns and best practices
 
 ---
 
@@ -48,9 +59,9 @@ _Coming soon..._
 
 ### Frontend Development
 
-<div align="center">
-  <img src="https://progress-bar.dev/90?title=Progress&width=400&color=brightgreen" alt="Frontend Progress"/>
-</div>
+```
+██████████████████░░ 90%
+```
 
 **Frameworks:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -71,9 +82,9 @@ _Coming soon..._
 
 ### Backend Development
 
-<div align="center">
-  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=blue" alt="Backend Progress"/>
-</div>
+```
+████████████████░░░░ 80%
+```
 
 **Frameworks:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -91,9 +102,9 @@ _Coming soon..._
 
 ### Data & Databases
 
-<div align="center">
-  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=orange" alt="Database Progress"/>
-</div>
+```
+████████████████░░░░ 80%
+```
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -105,9 +116,9 @@ _Coming soon..._
 
 ### Mobile Development
 
-<div align="center">
-  <img src="https://progress-bar.dev/85?title=Progress&width=400&color=purple" alt="Mobile Progress"/>
-</div>
+```
+█████████████████░░░ 85%
+```
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
@@ -117,9 +128,9 @@ _Coming soon..._
 
 ### Security, Authentication & Session Management
 
-<div align="center">
-  <img src="https://progress-bar.dev/90?title=Progress&width=400&color=red" alt="Security Progress"/>
-</div>
+```
+██████████████████░░ 90%
+```
 
 ![Google OAuth](https://img.shields.io/badge/Google%20OAuth%202.0-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
@@ -131,9 +142,9 @@ _Coming soon..._
 
 ### Architecture Planning
 
-<div align="center">
-  <img src="https://progress-bar.dev/80?title=Progress&width=400&color=teal" alt="Architecture Progress"/>
-</div>
+```
+████████████████░░░░ 80%
+```
 
 **Entity Relationship Planning** • **Feature Sets** • **MVP**
 
@@ -141,9 +152,9 @@ _Coming soon..._
 
 ### Testing
 
-<div align="center">
-  <img src="https://progress-bar.dev/75?title=Progress&width=400&color=yellow" alt="Testing Progress"/>
-</div>
+```
+███████████████░░░░░ 75%
+```
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![XUnit](https://img.shields.io/badge/XUnit-512BD4?style=flat-square&logo=xunit&logoColor=white)
@@ -306,13 +317,25 @@ _Coming soon..._
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruanklopper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruan-Klopper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ruanklopper&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ruan-Klopper&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanklopper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Klopper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&exclude_repo=github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ruanklopper&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Klopper&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true)
+
+![GitHub Contribution](https://github-contributor-stats.vercel.app/api/?username=Ruan-Klopper&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -325,6 +348,16 @@ _Coming soon..._
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanklopper)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruanklopper)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanklopper@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruanklopper.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruan-Klopper)
+
+---
+
+### ⚡ Quick Stats
+
+![GitHub Followers](https://img.shields.io/github/followers/Ruan-Klopper?label=Followers&style=for-the-badge&color=FF6B6B&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Ruan-Klopper?label=Total%20Stars&style=for-the-badge&color=FF6B6B&logo=github)
+![GitHub Repositories](https://img.shields.io/badge/Repositories-All%20Repos-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
