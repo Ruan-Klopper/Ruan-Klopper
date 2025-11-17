@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="./Ruan-Klopper-Banner.png" alt="Coriander Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ruan%20Klopper&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
+  <img src="./Ruan-Klopper-Banner.png" alt="Coriander Banner" width="100%"/>
 </div>
 
 <div align="center">
