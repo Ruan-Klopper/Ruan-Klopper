@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./Ruan-Klopper-Banner.png" alt="Coriander Banner" width="100%"/>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ruan%20Klopper&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
 </div>
 
@@ -42,7 +45,7 @@
 
 <div align="center">
 
-_I'm a passionate Full Stack Developer who loves building innovative solutions and creating beautiful user experiences. When I'm not coding, you'll find me behind a camera capturing moments or dreaming about that perfect BMW E39 M5. I believe in writing clean, maintainable code and always learning something new._
+_I’m a full stack developer who loves creating SaaS products that make life a little easier, and look good while doing it. I care a lot about clean, thoughtful code and building things that actually help people. When I’m not deep in a project, I’m out with my camera chasing good light or reading up on my dream car, the BMW E39 M5. I do all my work on a Mac, where creativity and code feel right at home._
 
 </div>
 
@@ -167,15 +170,12 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 
 ### Open Window Semester 1
 
-#### 🌿 Coriander
+#### 🌿 Coriander S1.1 & S1.2
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=Coriander+-+HR+Management+System" alt="Coriander Banner" width="100%"/>
+  <img src="./Coriander_Banner.png" alt="Coriander Banner" width="100%"/>
 </div>
 
-**Description:** A comprehensive Human Resources Management System built with Electron, React, and TypeScript. This desktop application provides a smooth and user-friendly experience for both employees and administrators to manage various HR functions including leave requests, meeting scheduling, equipment management, and performance reviews.
-
-**Technologies Used:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -192,17 +192,29 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 ![PDFMake](https://img.shields.io/badge/PDFMake-000000?style=flat-square&logo=pdf&logoColor=white)
 ![Lottie React](https://img.shields.io/badge/Lottie%20React-000000?style=flat-square&logo=lottie&logoColor=white)
 
----
+**Description:** Coriander HR is a comprehensive Human Resource Management System built for Coriander to optimize internal operations. Delivered as a cross-platform Electron desktop app with React and Ant Design, it gives staff and administrators dedicated dashboards to handle leave requests, meeting schedules, equipment management, and performance reviews through an intuitive, modern UI.
 
-#### VetSnap
+**Repositories:**
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/50C878/FFFFFF?text=VetSnap+-+Veterinary+Management+App" alt="VetSnap Banner" width="100%"/>
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+  <a href="https://github.com/WolfOWI/coriander-backend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    ⚙️ CoriCore Backend
+  </a>
+  <a href="https://github.com/WolfOWI/coriander" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    🖥️ Coriander Frontend
+  </a>
 </div>
 
-**Description:** _Description coming soon..._
+---
 
-**Technologies Used:**
+### Open Window Semester 2
+
+#### VetSnap S2.1
+
+<div align="center">
+  <img src="./VetSnap_Banner.png" alt="VetSnap Banner" width="100%"/>
+</div>
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
@@ -210,22 +222,45 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 ![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 ![Sanity CMS](https://img.shields.io/badge/Sanity%20CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 
----
+**Description:** VetSnap is the all-in-one mobile companion for farmers, veterinarians, and pet owners. It supports real-time messaging with vets, outbreak alerts via VetSnap Pulse, and instant access to the curated Anipedia knowledge base, blending community interaction with expert guidance to improve veterinary connectivity across Southern Africa.
 
-#### Noki AI
+**Repository:**
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/6C5CE7/FFFFFF?text=Noki+AI+-+AI+Powered+Application" alt="Noki AI Banner" width="100%"/>
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+  <a href="https://github.com/Ruan-Klopper/231280_Ruan-Klopper_DV300_T3-S2_VetSnap" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    🐾 VetSnap Repository
+  </a>
 </div>
 
-**Description:** _Description coming soon..._
+---
 
-**Technologies Used:**
+#### Noki AI S2.2
+
+<div align="center">
+  <img src="./Noki_AI_Banner.png" alt="Noki AI Banner" width="100%"/>
+</div>
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Firebase RTDB](https://img.shields.io/badge/Firebase%20RTDB-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+
+**Description:** Noki AI is a full-stack AI-powered study companion that syncs Canvas LMS courses and assignments into a focused dashboard. Students and professionals can create projects, track tasks, and ask Noki AI to generate or explain assignments, combining AI-driven task management with a clean productivity-first experience.
+
+**Repositories:**
+
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-frontend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    🖥️ Frontend
+  </a>
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-backend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    ⚙️ Backend
+  </a>
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-AIServer" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    🤖 AI Server
+  </a>
+</div>
 
 ---
 
@@ -234,82 +269,100 @@ _I'm a passionate Full Stack Developer who loves building innovative solutions a
 #### Pretoria FM
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/FF6B6B/FFFFFF?text=Pretoria+FM+-+Radio+Streaming+App" alt="Pretoria FM Banner" width="100%"/>
+  <img src="./PretoriaFM_Banner.png" alt="Pretoria FM Banner" width="100%"/>
 </div>
 
-**Description:** _Description coming soon..._
-
-**Technologies Used:**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![React Native Track Player](https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white)
+
+**Description:** The official Pretoria FM mobile app lets listeners stream live radio while multitasking or running the app in the background. Users can browse and search articles, receive push notifications, and keep up with weekly Nuusweek features, boosting audience engagement on both iOS and Android.
+
+**Repositories & Links:**
+
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
+  <span style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px dashed #2d2d2d; border-radius:999px; background:#111; color:#bbb;">
+    🔒 Private Repository
+  </span>
+  <a href="https://apps.apple.com/za/app/pretoria-fm/id6752386705" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+    📱 App Store
+  </a>
+</div>
 
 ---
 
 ## Repositories for 2024
 
-#### Palitify
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/FF6B9D/FFFFFF?text=Palitify+-+Creative+Platform" alt="Palitify Banner" width="100%"/>
+<div align="center" style="margin-top: 1rem;">
+  <div style="display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:1rem; width:100%;">
+    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
+      <h4 align="center">Palatify</h4>
+      <img src="./Pality.png" alt="Palitify Banner" width="100%"/>
+      <p><strong>Description:</strong> Palatify is a recipe comparison web app powered by the Spoonacular API, letting users contrast ingredients, nutrition facts, and cooking methods through crisp React and Chart.js visuals.</p>
+      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
+        <a href="https://github.com/Ruan-Klopper/Ruan-Klopper-DV200-Term-1-Semester-1" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+          📊 View Repository
+        </a>
+      </div>
+      <p><strong>Tech Stack:</strong> React, JavaScript, CSS</p>
+      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+        <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white" alt="Expo Router"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+        <img src="https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white" alt="React Native Track Player"/>
+      </div>
+    </div>
+    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
+      <h4 align="center">Botania</h4>
+      <img src="./Botania.png" alt="Botania Banner" width="100%"/>
+      <p><strong>Description:</strong> Botania is a collaborative e-commerce experience for plant enthusiasts where users register, shop, review products, and manage personal plant libraries with sorting, filtering, and appointment scheduling.</p>
+      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
+        <a href="https://github.com/Sean-D-231121/Group_Project_DV200_Term_2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+          🌿 View Repository
+        </a>
+      </div>
+      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      </div>
+    </div>
+    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
+      <h4 align="center">TechTalksMarket</h4>
+      <img src="./TTT.png" alt="TechTalksMarket Banner" width="100%"/>
+      <p><strong>Description:</strong> TechTalksMarket is a Waterfall-planned Q&amp;A platform blending a React frontend with a PHP and SQL backend so tech enthusiasts can ask questions, share knowledge, and run structured discussions.</p>
+      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
+        <a href="https://github.com/ruruk/RuanKlopper_DV200-Term3-Semester2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+          💬 View Repository
+        </a>
+      </div>
+      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </div>
+    </div>
+    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
+      <h4 align="center">DotSkin</h4>
+      <img src="./DotSkin.png" alt="DotSkin Banner" width="100%"/>
+      <p><strong>Description:</strong> DotSkin is a Next.js e-commerce storefront for South African-made beauty and cosmetic brands, pairing elegant storytelling with secure checkout and CourierGuy-powered fulfillment.</p>
+      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
+        <a href="https://github.com/Ruan-Klopper/RuanKlopper_DV200-Term4-Semester-2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
+          💄 View Repository
+        </a>
+      </div>
+      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </div>
+    </div>
+  </div>
 </div>
-
-**Description:** _Description coming soon..._
-
-**Technologies Used:**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
-![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![React Native Track Player](https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white)
-
----
-
-#### Botania
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/2ECC71/FFFFFF?text=Botania+-+Plant+Management+System" alt="Botania Banner" width="100%"/>
-</div>
-
-**Description:** _Description coming soon..._
-
-**Technologies Used:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
----
-
-#### TechTalksMarket
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/3498DB/FFFFFF?text=TechTalksMarket+-+Tech+Marketplace" alt="TechTalksMarket Banner" width="100%"/>
-</div>
-
-**Description:** _Description coming soon..._
-
-**Technologies Used:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-#### DotSkin
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/9B59B6/FFFFFF?text=DotSkin+-+Gaming+Platform" alt="DotSkin Banner" width="100%"/>
-</div>
-
-**Description:** _Description coming soon..._
-
-**Technologies Used:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
