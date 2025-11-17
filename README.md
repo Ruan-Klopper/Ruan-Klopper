@@ -44,13 +44,15 @@
 
 ## About Me
 
-<div align="center">
-
 _I’m a full stack developer who loves creating SaaS products that make life a little easier, and look good while doing it. I care a lot about clean, thoughtful code and building things that actually help people. When I’m not deep in a project, I’m out with my camera chasing good light or reading up on my dream car, the BMW E39 M5. I do all my work on a Mac, where creativity and code feel right at home._
 
-</div>
+### Connect with me
 
----
+[![Website](https://img.shields.io/badge/Website-links.ruanklopper.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://links.ruanklopper.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-klopper-b09418220/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/king.of.cool/)
+[![Email](https://img.shields.io/badge/Email-ruan@ruanklopper.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan@ruanklopper.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruan-Klopper)
 
 ## What I'm Currently Working On
 
@@ -60,6 +62,8 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ---
 
 ## Skills & Expertise
+
+---
 
 ### Frontend Development
 
@@ -116,8 +120,6 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
----
-
 ### Mobile Development
 
 ```
@@ -127,8 +129,6 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white)
-
----
 
 ### Security, Authentication & Session Management
 
@@ -141,8 +141,6 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=oauth&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-ED8B00?style=flat-square&logo=indexeddb&logoColor=white)
 ![Caching](https://img.shields.io/badge/Caching-FF6B6B?style=flat-square&logo=cache&logoColor=white)
-
----
 
 ### Architecture Planning
 
@@ -164,8 +162,6 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ![XUnit](https://img.shields.io/badge/XUnit-512BD4?style=flat-square&logo=xunit&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=flat-square&logo=moq&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
 
 ## Repositories for 2025
 
@@ -403,18 +399,6 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-<div align="center">
-  
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanklopper)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruanklopper)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruanklopper@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ruanklopper.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruan-Klopper)
 
 ---
 
