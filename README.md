@@ -54,8 +54,8 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 
 ## What I'm Currently Working On
 
-- 🤖 Expanding **Noki AI** - features, hopefully I can lauch it soon for students to use Noki AI
-- 🎨 Learning new design patterns and best practices
+- Expanding **Noki AI** - features, hopefully I can lauch it soon for students to use Noki AI: Noki AI will soon have a fully featured mobile app
+- Learning new design patterns and best practices
 
 ---
 
@@ -198,11 +198,11 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 **Repositories:**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
-  <a href="https://github.com/WolfOWI/coriander-backend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    ⚙️ CoriCore Backend
+  <a href="https://github.com/WolfOWI/coriander-backend" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-CoriCore_Backend-181717?style=flat-square&logo=github&logoColor=white" alt="CoriCore Backend"/>
   </a>
-  <a href="https://github.com/WolfOWI/coriander" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    🖥️ Coriander Frontend
+  <a href="https://github.com/WolfOWI/coriander" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Coriander_Frontend-181717?style=flat-square&logo=github&logoColor=white" alt="Coriander Frontend"/>
   </a>
 </div>
 
@@ -228,8 +228,8 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 **Repository:**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
-  <a href="https://github.com/Ruan-Klopper/231280_Ruan-Klopper_DV300_T3-S2_VetSnap" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    🐾 VetSnap Repository
+  <a href="https://github.com/Ruan-Klopper/231280_Ruan-Klopper_DV300_T3-S2_VetSnap" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-VetSnap_App-181717?style=flat-square&logo=github&logoColor=white" alt="VetSnap Repository"/>
   </a>
 </div>
 
@@ -252,14 +252,14 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 **Repositories:**
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
-  <a href="https://github.com/Ruan-Klopper/Noki-AI-frontend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    🖥️ Frontend
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-frontend" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Frontend-181717?style=flat-square&logo=github&logoColor=white" alt="Noki AI Frontend"/>
   </a>
-  <a href="https://github.com/Ruan-Klopper/Noki-AI-backend" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    ⚙️ Backend
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-backend" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Backend-181717?style=flat-square&logo=github&logoColor=white" alt="Noki AI Backend"/>
   </a>
-  <a href="https://github.com/Ruan-Klopper/Noki-AI-AIServer" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    🤖 AI Server
+  <a href="https://github.com/Ruan-Klopper/Noki-AI-AIServer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AI_Server-181717?style=flat-square&logo=github&logoColor=white" alt="Noki AI Server"/>
   </a>
 </div>
 
@@ -287,8 +287,8 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
   <span style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px dashed #2d2d2d; border-radius:999px; background:#111; color:#bbb;">
     🔒 Private Repository
   </span>
-  <a href="https://apps.apple.com/za/app/pretoria-fm/id6752386705" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-    📱 App Store
+  <a href="https://apps.apple.com/za/app/pretoria-fm/id6752386705" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-Open-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store Link"/>
   </a>
 </div>
 
@@ -296,74 +296,85 @@ _I’m a full stack developer who loves creating SaaS products that make life a 
 
 ## Repositories for 2024
 
-<div align="center" style="margin-top: 1rem;">
-  <div style="display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:1rem; width:100%;">
-    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
-      <h4 align="center">Palatify</h4>
-      <img src="./Pality.png" alt="Palitify Banner" width="100%"/>
-      <p><strong>Description:</strong> Palatify is a recipe comparison web app powered by the Spoonacular API, letting users contrast ingredients, nutrition facts, and cooking methods through crisp React and Chart.js visuals.</p>
-      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
-        <a href="https://github.com/Ruan-Klopper/Ruan-Klopper-DV200-Term-1-Semester-1" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-          📊 View Repository
-        </a>
+<table width="100%" style="border-collapse:collapse; margin-top:1rem;">
+  <tr>
+    <td style="width:25%; padding:0.75rem; vertical-align:top;">
+      <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f; height:100%; text-align:left;">
+        <h4 style="margin-top:0;">Palatify</h4>
+        <img src="./Pality.png" alt="Palitify Banner" width="100%"/>
+        <p><strong>Description:</strong> Palatify is a recipe comparison web app powered by the Spoonacular API, letting users contrast ingredients, nutrition facts, and cooking methods through crisp React and Chart.js visuals.</p>
+        <div style="margin:0.5rem 0;">
+          <a href="https://github.com/Ruan-Klopper/Ruan-Klopper-DV200-Term-1-Semester-1" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Palatify Repository"/>
+          </a>
+        </div>
+        <p><strong>Tech Stack:</strong> React, JavaScript, CSS</p>
+        <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:flex-start;">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+          <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white" alt="Expo Router"/>
+          <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+          <img src="https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white" alt="React Native Track Player"/>
+        </div>
       </div>
-      <p><strong>Tech Stack:</strong> React, JavaScript, CSS</p>
-      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-        <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-        <img src="https://img.shields.io/badge/Expo_Router-000000?style=flat-square&logo=expo&logoColor=white" alt="Expo Router"/>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-        <img src="https://img.shields.io/badge/React%20Native%20Track%20Player-000000?style=flat-square&logo=react&logoColor=white" alt="React Native Track Player"/>
+    </td>
+    <td style="width:25%; padding:0.75rem; vertical-align:top;">
+      <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f; height:100%; text-align:left;">
+        <h4 style="margin-top:0;">Botania</h4>
+        <img src="./Botania.png" alt="Botania Banner" width="100%"/>
+        <p><strong>Description:</strong> Botania is a collaborative e-commerce experience for plant enthusiasts where users register, shop, review products, and manage personal plant libraries with sorting, filtering, and appointment scheduling.</p>
+        <div style="margin:0.5rem 0;">
+          <a href="https://github.com/Sean-D-231121/Group_Project_DV200_Term_2" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Botania Repository"/>
+          </a>
+        </div>
+        <p><strong>Tech Stack:</strong> MongoDB, Express, React, Node.js</p>
+        <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:flex-start;">
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        </div>
       </div>
-    </div>
-    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
-      <h4 align="center">Botania</h4>
-      <img src="./Botania.png" alt="Botania Banner" width="100%"/>
-      <p><strong>Description:</strong> Botania is a collaborative e-commerce experience for plant enthusiasts where users register, shop, review products, and manage personal plant libraries with sorting, filtering, and appointment scheduling.</p>
-      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
-        <a href="https://github.com/Sean-D-231121/Group_Project_DV200_Term_2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-          🌿 View Repository
-        </a>
+    </td>
+    <td style="width:25%; padding:0.75rem; vertical-align:top;">
+      <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f; height:100%; text-align:left;">
+        <h4 style="margin-top:0;">TechTalksMarket</h4>
+        <img src="./TTT.png" alt="TechTalksMarket Banner" width="100%"/>
+        <p><strong>Description:</strong> TechTalksMarket is a Waterfall-planned Q&amp;A platform blending a React frontend with a PHP and SQL backend so tech enthusiasts can ask questions, share knowledge, and run structured discussions.</p>
+        <div style="margin:0.5rem 0;">
+          <a href="https://github.com/ruruk/RuanKlopper_DV200-Term3-Semester2" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="TechTalksMarket Repository"/>
+          </a>
+        </div>
+        <p><strong>Tech Stack:</strong> React, PHP, MySQL</p>
+        <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:flex-start;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        </div>
       </div>
-      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+    </td>
+    <td style="width:25%; padding:0.75rem; vertical-align:top;">
+      <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f; height:100%; text-align:left;">
+        <h4 style="margin-top:0;">DotSkin</h4>
+        <img src="./DotSkin.png" alt="DotSkin Banner" width="100%"/>
+        <p><strong>Description:</strong> DotSkin is a Next.js e-commerce storefront for South African-made beauty and cosmetic brands, pairing elegant storytelling with secure checkout and CourierGuy-powered fulfillment.</p>
+        <div style="margin:0.5rem 0;">
+          <a href="https://github.com/Ruan-Klopper/RuanKlopper_DV200-Term4-Semester-2" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="DotSkin Repository"/>
+          </a>
+        </div>
+        <p><strong>Tech Stack:</strong> Next.js, Prisma, PostgreSQL</p>
+        <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:flex-start;">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        </div>
       </div>
-    </div>
-    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
-      <h4 align="center">TechTalksMarket</h4>
-      <img src="./TTT.png" alt="TechTalksMarket Banner" width="100%"/>
-      <p><strong>Description:</strong> TechTalksMarket is a Waterfall-planned Q&amp;A platform blending a React frontend with a PHP and SQL backend so tech enthusiasts can ask questions, share knowledge, and run structured discussions.</p>
-      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
-        <a href="https://github.com/ruruk/RuanKlopper_DV200-Term3-Semester2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-          💬 View Repository
-        </a>
-      </div>
-      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      </div>
-    </div>
-    <div style="border:1px solid #2d2d2d; border-radius:12px; padding:1rem; background:#0f0f0f;">
-      <h4 align="center">DotSkin</h4>
-      <img src="./DotSkin.png" alt="DotSkin Banner" width="100%"/>
-      <p><strong>Description:</strong> DotSkin is a Next.js e-commerce storefront for South African-made beauty and cosmetic brands, pairing elegant storytelling with secure checkout and CourierGuy-powered fulfillment.</p>
-      <div style="display:flex; justify-content:center; margin:0.5rem 0;">
-        <a href="https://github.com/Ruan-Klopper/RuanKlopper_DV200-Term4-Semester-2" target="_blank" style="display:inline-flex; align-items:center; gap:0.35rem; padding:0.35rem 0.9rem; border:1px solid #2d2d2d; border-radius:999px; background:#111; color:#fff; text-decoration:none;">
-          💄 View Repository
-        </a>
-      </div>
-      <div style="display:flex; flex-wrap:wrap; gap:0.25rem; justify-content:center;">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </div>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
